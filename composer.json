@@ -1,0 +1,19 @@
+{
+  "name": "paketim/paketismim",
+  "description": Github test paketim.",
+  "keywords": ["test", "laravel", "model dosyası"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Murat Ozlu",
+      "email": "murat@webs35.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Paketim\\paketismim\\": "src/"
+    }
+  },
+  "version" : "1.0.0",
+  "minumum-stability" : "dev"
+}
